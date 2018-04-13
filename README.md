@@ -13,4 +13,3 @@ Repository for the DigiTech LLC company website for Cal Poly Pomona CS480
 * **David**
 * **Jason**
 * **Sam**
-# DigitechLLC
